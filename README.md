@@ -15,6 +15,14 @@ _Will Kubernetes recover from the failures?_
 
 There's only one way to know!
 
+## Prerequisites
+
+Make sure you have the following tools installed:
+
+- Docker Desktop (or Podman Desktop)
+- kubectl
+- minikube
+
 ## Bootstrapping a cluster
 
 Let's start by creating a three-node Kubernetes cluster with two worker nodes.
