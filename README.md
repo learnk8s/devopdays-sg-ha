@@ -557,7 +557,7 @@ The file contains three Kubernetes resources:
 You can create the resources with
 
 ```bash
-$ kubectl apply -f app.yaml
+$ kubectl apply -f https://raw.githubusercontent.com/learnk8s/devopdays-sg-ha/refs/heads/main/app.yaml
 ```
 
 **Verifying the deployment:**
